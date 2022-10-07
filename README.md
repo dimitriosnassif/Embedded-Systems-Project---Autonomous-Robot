@@ -6,7 +6,7 @@ First Year Project - Microcontroller
 
 **Objective**: The robot must perform tests by detecting objects in its immediate environment.
 
-Team construction of a hardware and software system based on a microcontroller board. The technical concepts covered cover familiarization with the hardware and software elements and the interactions required for the realization and understanding of a simple computer system, but complete with its inputs/outputs and peripherals. Programming at different levels, configuration management, code inspections and testing, and basic programming practices are gradually introduced.
+Team `construction of a hardware and software system` based on a microcontroller board. The technical concepts covered cover familiarization with the hardware and software elements and `the interactions required for the realization and understanding of a simple computer system`, but complete with its inputs/outputs and peripherals. `Programming at different levels`, `configuration management`, `code inspections and testing`, and basic programming practices are gradually introduced.
 
 ## Built Using
 - C/C++
